@@ -1,3 +1,3 @@
-#Image Editor
+# Image Editor
 
-##Simple Image Editor with HTML, CSS and Javascript
+## Simple Image Editor with HTML, CSS and Javascript
